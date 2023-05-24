@@ -4,11 +4,9 @@
 https://drive.google.com/file/d/1YiLDdXJyIobKa4LRfTfuB_tT5fFbPR7N/view
 
 # Prerequisites
-Before running the application, ensure that you have the following:
-
-Node.js (version X.X.X) installed on your machine
-MySQL server (version X.X.X) installed and running
-Insomnia Core or a similar tool for testing API endpoints
+Node.js installed on your machine
+MySQL server installed and running
+Insomnia Core 
  # Installation
 Clone the repository from GitHub.
 bash
