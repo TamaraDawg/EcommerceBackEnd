@@ -5,7 +5,9 @@ https://drive.google.com/file/d/1YiLDdXJyIobKa4LRfTfuB_tT5fFbPR7N/view
 
 # Prerequisites
 Node.js installed on your machine
-MySQL server installed and running
+
+MySQL server installed 
+
 Insomnia Core 
  # Installation
 Clone the repository from GitHub.
